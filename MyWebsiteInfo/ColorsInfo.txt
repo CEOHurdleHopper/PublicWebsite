@@ -1,0 +1,51 @@
+Website Color Theme:
+
+Name: Somber Blue Seas
+#03B5AA
+#037971
+#023436
+#00BFB3
+#049A8F
+
+Name: Lollypop Power
+#FFFFFF
+#84DCC6
+#A5FFD6
+#FFA69E
+#FF686B
+
+Name: Jungle Jamming
+#343E3D
+#607466
+#AEDCC0
+#7BD389
+#38E4AE
+
+Name: Popping Business Man
+#D1BCE3
+#C49BBB
+#A1867F
+#585481
+#19297C
+
+Name: Da Beach House
+#006D77
+#83C5BE
+#EDF6F9
+#FFDDD2
+#E29578
+
+Name: Machine Gunner
+#12130F
+#5B9279
+#8FCB9B
+#EAE6E5
+#8F8073
+
+Name: Crispy Construction
+#2660A4
+#EDF7F6
+#F19953
+#C47335
+#56351E
+
