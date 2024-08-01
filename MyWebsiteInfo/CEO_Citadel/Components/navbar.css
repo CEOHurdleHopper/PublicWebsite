@@ -1,0 +1,23 @@
+.navbar li{
+    display: inline; 
+    font-size: 25pt ;
+    margin-right: 10px;
+   }
+   
+   .navbar a.active {
+   color: #F8F8F8 !important;
+   background-color: #4f81bd;
+   }
+   
+   .navbar {
+    background-color: #037971;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    color : #023436;
+   }
+   
+   .navbar a:hover {
+    border: dotted black 5px; 
+   }
